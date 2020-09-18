@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: #FBFBFB;
     text-align: center;
 }
 
@@ -16,19 +16,20 @@ img {
     min-width: 300px;
     max-width: 450px;
     opacity: 0.75;
+    padding-top: 50px;
 }
 
 a {
     text-decoration: none;
     font-weight: bold;
-    color: #41FAE7;
+    color: #00AB91;
 
 }
 
 a:hover {
 
     font-weight: bold;
-    background-color: #41FAE7;
+    background-color: #00AB91;
     color: white;
     opacity: 0.7;
 }
@@ -38,6 +39,7 @@ a:hover {
     padding: 15px;
     max-width: 500px;
     margin: auto;
+    font-size: 30px;
 
 }
 
@@ -46,21 +48,22 @@ a:hover {
     padding: 15px;
     max-width: 500px;
     margin: auto;
+    font-size: 30px;
 
 }
 
 nav {
-     background-color: #41FAE7;
+     background-color: #EFF6F7;
      padding-top: 12px;
      padding-bottom: 12px;
      font-family: 'Raleway', sans-serif;
-     opacity: 0.7
+     opacity: 0.5;
 
 }
 
 h1 {
     font-family: 'Balsamiq Sans', cursive;
-    font-size: 30px;
+    font-size: 50px;
     text-transform: uppercase;
     color: #00DEC6;
 
@@ -68,7 +71,7 @@ h1 {
 
 h2 {
     font-family: 'Grandstander', cursive;
-    font-size: 25px;
+    font-size: 35px;
     text-transform: uppercase;
 
 }
