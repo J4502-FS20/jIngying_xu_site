@@ -7,9 +7,6 @@ p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-ul {
-    list-style-type: none;
-}
 
 img {
     width: 50%;
@@ -54,12 +51,21 @@ a:hover {
 
 nav {
      background-color: #EFF6F7;
-     padding-top: 12px;
-     padding-bottom: 12px;
+     padding-top: 20px;
+     padding-bottom: 20px;
      font-family: 'Raleway', sans-serif;
      opacity: 0.5;
+     font-size: 25px;
 
 }
+
+.bar {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+
+}
+
 
 h1 {
     font-family: 'Balsamiq Sans', cursive;
